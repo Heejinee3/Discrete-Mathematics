@@ -1,10 +1,6 @@
----
-index: 2 # labs number
-num: 0 # lab number
-permalink: /lab/Discrete-Mathematics/Lucas-Lehmer-Riesel-Primality-Test # link
-category: lab # project or lab
-use_math: true
----
+### **Lucas-Lehmer-Riesel Primality Test** 
+
+<br>
 
 #### **서론**
 
@@ -53,11 +49,3 @@ use_math: true
 루카-레머 소수 판별법은 특히 메르센 소수가 큰 경우에 유용하다. 이 알고리즘은 간단하고 빠르게 수행되며, 특정한 소수 p에 대해 메르센 소수를 판별할 수 있다. 그러나 이 판별법은 모든 소수에 대해 적용되지 않으며, p가 소수인지 확인하는 데에만 사용된다.
 
 루카-레머 소수 판별법은 현재까지 발견된 가장 큰 메르센 소수들을 찾는 데에 활용되었으며, 프라임그리드(Priemgrid)와 같은 기술과 결합하여 대규모의 소수를 검사하는 데에도 사용된다.
-
-<br>
-
-#### **Link**
-
----
-
-[Github](https://github.com/Heejinee3/Discrete-Mathematics/tree/master)
