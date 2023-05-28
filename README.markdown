@@ -1,4 +1,4 @@
-### **Discrete Mathmatics** (Sep 2021 ~ Dec 2021)
+### **Discrete Mathmatics** (Mar 2020 ~ Jun 2020)
 
 <br>
 
@@ -6,12 +6,4 @@
 
 ---
 
-The objective of these labs is to design a RoboCam (Robotic Camera) as a prototypical embedded system, incorporating various components such as a cross-development system, light control, robot functionality, WiFi connectivity, a WebCam, and system integration. Additionally, the objective includes exploring possibilities for system enhancement.
-
-<br>
-
-#### **Development Environment** 
-
----
-
-Ubuntu, Beaglebone Debian, NFS, Cross Development Environment, C, C++
+The objective of these labs is to offer practical experience and application of fundamental mathematical concepts employed in computer science. The topics encompassed comprise proofs, relations, counting, graph theory, logic, automata, and formal languages. This practical approach aims to strengthen comprehension and foster problem-solving abilities within the realm of computer science."
